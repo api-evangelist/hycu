@@ -1,8 +1,17 @@
 aid: hycu
 name: HYCU
-description: 'HYCU is a company surfaced as a portfolio company of bain-capital-ventures and added to
-  the API Evangelist network as a stub for enrichment. Sector: ai-infrastructure. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: >-
+  HYCU is an AI-powered data resilience and data protection platform that backs
+  up, protects, and recovers more than 100 workloads across on-premises, public
+  cloud, and SaaS environments. Its R-Cloud platform is delivered as a low-code
+  data protection development platform that lets SaaS and AI application
+  providers rapidly build and publish backup-and-recovery services to the
+  R-Cloud Marketplace, alongside R-Shield for ransomware threat prevention and
+  recoverability validation and aiR for querying backup data as an intelligence
+  source. HYCU serves 4,800+ organizations across 78 countries and is recognized
+  as a Leader by IDC and Gartner. This profile was surfaced as a portfolio
+  company of Bain Capital Ventures and enriched by the API Evangelist pipeline;
+  HYCU exposes a low-code developer platform rather than a public REST API.
 url: https://raw.githubusercontent.com/api-evangelist/hycu/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +19,31 @@ x-backed-by:
 - bain-capital-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://logo.clearbit.com/hycu.com
 tags:
 - Company
 - Ai Infrastructure
+- Data Protection
+- Backup
+- Disaster Recovery
+- Ransomware
+- Data Resilience
+- SaaS
+- Cloud
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +51,38 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: TrustCenter
+  url: security/hycu-trust-center.yml
+- type: DomainSecurity
+  url: security/hycu-domain-security.yml
 - type: Website
   url: https://www.hycu.com/
+- type: DeveloperPortal
+  url: https://hycu.com/developer
+- type: Documentation
+  url: https://support.hycu.com/hc/en-us/categories/15363454825500-Documentation
+- type: Support
+  url: https://support.hycu.com/hc/en-us
+- type: Blog
+  url: https://hycu.com/blog
+- type: Pricing
+  url: https://hycu.com/pricing
+- type: SignUp
+  url: https://hycu.com/trial
+- type: Login
+  url: https://r-cloud.hycu.com/login
+- type: TermsOfService
+  url: https://hycu.com/legal/terms-of-use
+- type: PrivacyPolicy
+  url: https://hycu.com/legal/privacy-policy
+- type: Compliance
+  url: https://www.hycu.com/solutions/security-compliance
+- type: Marketplace
+  url: https://hycu.com/solutions/marketplace
+- type: LLMsTxt
+  url: llms/hycu-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

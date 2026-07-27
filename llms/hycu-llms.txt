@@ -1,0 +1,28 @@
+<!--
+generated: 2026-07-19
+method: searched
+source: https://www.hycu.com/llms.txt
+-->
+# HYCU
+
+> HYCU provides data protection, backup, recovery, and cyber resilience for SaaS, cloud-native, cloud, and enterprise workloads.
+
+## Primary Pages
+
+- [Home](https://www.hycu.com/): Overview of HYCU and primary product positioning.
+- [Platform](https://www.hycu.com/platform): HYCU platform overview.
+- [Solutions](https://www.hycu.com/solutions): Use cases and workload-specific data protection solutions.
+- [Resources](https://www.hycu.com/resources): Resource library with webinars, reports, guides, and articles.
+- [Blog](https://www.hycu.com/blog): HYCU blog and educational content.
+- [Partners](https://www.hycu.com/partners): Partner ecosystem and alliance information.
+- [Company](https://www.hycu.com/company): Company information, leadership, news, and contact paths.
+
+## Newsroom
+
+- [Newsroom](https://www.hycu.com/company/newsroom): HYCU company news, announcements, and media resources.
+- [Press Releases](https://www.hycu.com/company/newsroom/press-releases): Official HYCU press releases and company announcements.
+- [Coverage](https://www.hycu.com/company/newsroom/coverage): Media coverage and third-party news items featuring HYCU.
+
+## Content Feeds
+
+- [Sitemap](https://www.hycu.com/sitemap.xml): Full indexable URL list for the site.
