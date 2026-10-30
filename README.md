@@ -64,6 +64,88 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-HYCU is a company surfaced as a portfolio company of bain-capital-ventures and added to the API Evangelist network as a stub for enrichment. Sector: ai-infrastructure. This profile is a lead awaiting the enrichment pipeline.
+HYCU is an AI-powered data resilience and data protection platform that backs up, protects, and recovers more than 100 workloads across on-premises, public cloud, and SaaS environments. Its R-Cloud platform is delivered as a low-code data protection development platform that lets SaaS and AI application providers rapidly build and publish backup-and-recovery services to the R-Cloud Marketplace, alongside R-Shield for ransomware threat prevention and recoverability validation and aiR for querying backup data as an intelligence source. HYCU serves 4,800+ organizations across 78 countries and is recognized as a Leader by IDC and Gartner. This profile was surfaced as a portfolio company of Bain Capital Ventures and enriched by the API Evangelist pipeline; HYCU exposes a low-code developer platform rather than a public REST API.
 
-Backed by: bain-capital-ventures — https://www.hycu.com/
+**Areas:** Company · AI Infrastructure · Data Protection · Backup · Disaster Recovery · Ransomware · Data Resilience · Software-as-a-Service · Cloud
+
+## HYCU on APIs.io
+
+Everything profiled for HYCU is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hycu/](https://apis.io/providers/hycu/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hycu Domain Security](https://apis.io/security/hycu/hycu-domain-security/)
+- [Hycu Trust Center](https://apis.io/security/hycu/hycu-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.hycu.com/)
+- [Documentation](https://support.hycu.com/hc/en-us/categories/15363454825500-Documentation)
+- [Pricing](https://hycu.com/pricing)
+- [Sign up](https://hycu.com/trial)
+- [Support](https://support.hycu.com/hc/en-us)
+- [Blog](https://www.hycu.com/blog)
+- [Compliance](https://www.hycu.com/solutions/security-compliance)
+- [Terms of service](https://hycu.com/legal/terms-of-use)
+- [Privacy policy](https://hycu.com/legal/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 23.4** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 26.2 |
+| Access clarity | 60.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hycu/](https://apis.io/providers/hycu/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for HYCU: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hycu/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
